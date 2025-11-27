@@ -112,11 +112,7 @@ cd FinSight-AI
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
-7. License
-
-MIT License 
-
-8. Contact
+7. Contact
 
 For collaboration or hiring:
 
