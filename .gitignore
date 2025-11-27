@@ -1,4 +1,4 @@
-﻿# Python / quant
+
 __pycache__/
 *.py[cod]
 *.class
@@ -9,10 +9,9 @@ venv/
 pip-log.txt
 .ipynb_checkpoints
 
-# VS Code
+
 .vscode/
 
-# Never commit large binaries
 *.pdf
 *.jpg
 *.jpeg
