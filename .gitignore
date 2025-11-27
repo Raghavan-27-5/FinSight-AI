@@ -1,0 +1,33 @@
+﻿# Python / quant
+__pycache__/
+*.py[cod]
+*.class
+*.so
+env/
+venv/
+.venv/
+pip-log.txt
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Never commit large binaries
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pkl
+*.pth
+*.pt
+*.bin
+*.onnx
+data/
+models/
+cache/
+
+# Logs & temp
+*.log
+tmp/
+temp/
